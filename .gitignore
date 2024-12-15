@@ -42,3 +42,8 @@ results/reports/*
 
 # Streamlit
 .streamlit/
+
+# Private files (DO NOT COMMIT)
+COMMIT_INSTRUCTIONS.txt
+GIT_COMMIT_PLAN.md
+IMPLEMENTATION_STATUS.md
